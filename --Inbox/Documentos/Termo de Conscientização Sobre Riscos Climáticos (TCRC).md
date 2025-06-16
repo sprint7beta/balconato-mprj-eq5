@@ -9,3 +9,8 @@
     
 - **Requisitos:**  
     Nenhuma autorização, nem mesmo a mais rasa, pode ser dada a quem encara o clima como um jogo de dados. Só depois deste gesto é que se permite molhar os joelhos.
+
+
+| Imagem                                          | Lista de Requisitos |
+| ----------------------------------------------- | ------------------- |
+| ![[{F2158CC7-597E-4D15-8797-92D90A62ED4C}.png]] |                     |

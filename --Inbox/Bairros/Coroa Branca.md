@@ -6,3 +6,10 @@ Moradores mantêm pequenas hortas em estufas simples e dependem da criação de 
 
 ## Problemas  
 O vento constante desgasta construções e dificulta o cultivo. Muitas casas precisam ser reforçadas para suportar tempestades de neve.
+
+| Conexões      | Modal |
+| ------------- | ----- |
+| Dique do Lago | Trenó |
+| Fardo Gélido  | Trenó |
+| Gruta Fria    | Barco |
+![[Pasted image 20250616123835.png]]

@@ -6,3 +6,9 @@ Moradores são trabalhadores braçais, que enfrentam jornadas longas para garant
 
 ## Problemas  
 O frio constante torna difícil o transporte de cargas. A falta de isolamento adequado nas casas provoca problemas de saúde, como resfriados.
+
+| Conexões            | Modal |
+| ------------------- | ----- |
+| Gruta Fria          | Trenó |
+| Instância Congelada | Trenó |
+| Coroa Branca        | Trenó |

@@ -11,3 +11,8 @@
     Tocar o gelo (T5) é fácil. Permanecer frio diante dele, só os aptos. Este selo é um dos três que pesam no cálice da Licença Final (T12).
 
 Depende de: [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]]
+
+
+| Imagem                                          | Requisitos                                                  |
+| ----------------------------------------------- | ----------------------------------------------------------- |
+| ![[{78E8B659-683E-439C-9F48-1CD392495599}.png]] | [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]] |

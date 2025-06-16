@@ -6,3 +6,9 @@ Moradores trabalham principalmente com agricultura de inverno resistente e cria�
 
 ## Problemas  
 A neve constante dificulta o transporte e o acesso, especialmente para idosos e crianças. A neve acumulada às vezes causa desabamentos de telhados.
+
+| Conexões       | Modal |
+| -------------- | ----- |
+| Bico Congelado | Barco |
+| Coroa Branca   | Barco |
+![[WhatsApp Image 2025-06-16 at 11.48.35.jpeg]]

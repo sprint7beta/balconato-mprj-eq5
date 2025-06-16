@@ -6,3 +6,9 @@ Trabalham com artesanato simples e pequenas plantações de inverno. O convívio
 
 ## Problemas  
 O isolamento dificulta o acesso a suprimentos e cuidados médicos. O frio intenso pode deixar estradas intransitáveis por dias.
+
+| Conexões      | Modal |
+| ------------- | ----- |
+| Haste Pálida  | Trenó |
+| Dique do Lago | Trenó |
+![[Pasted image 20250616131030.png]]

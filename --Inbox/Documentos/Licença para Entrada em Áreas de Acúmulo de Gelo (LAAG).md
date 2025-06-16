@@ -11,3 +11,8 @@
     Sem resistência ao congelamento, é proibido tocar no gelo. Mas com este salvo-conduto, portas se abrem — para o equilíbrio, a flutuabilidade e muito mais.
 
 Depende de: [[Certificado de Participação em Treinamento Anti-Congelamento (CPTAC)]]
+
+
+| Imagem                                          | Lista de Requisitos                                                      |
+| ----------------------------------------------- | ------------------------------------------------------------------------ |
+| ![[{6A45B860-5A5C-47C3-950B-BD21BC99B950}.png]] | [[Certificado de Participação em Treinamento Anti-Congelamento (CPTAC)]] |
