@@ -11,17 +11,14 @@
             "id": "db8538a3148b9995",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -279,
-                  "zoom": 0
-                }
+                "file": "--Tarefas/Atividades 16062025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Atividades 16062025"
             }
           }
         ]
@@ -171,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a43999d1b2f69c76",
+  "active": "db8538a3148b9995",
   "lastOpenFiles": [
+    "--Tarefas/O que vamos fazer hoje.md",
     "--Tarefas/Atividades 16062025.md",
     "Untitled 1.canvas",
     "2025-06-16.md",
