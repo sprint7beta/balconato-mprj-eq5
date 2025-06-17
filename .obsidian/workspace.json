@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46431b3e6ad66545",
+        "id": "e3b8a90d507b6832",
         "type": "tabs",
         "children": [
           {
-            "id": "552e3c8d710ab989",
+            "id": "db8538a3148b9995",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04-Expressar/index.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -53,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artesana",
+                "query": "tag:#trenó",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,40 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "552e3c8d710ab989",
+  "active": "db8538a3148b9995",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-06-17.md",
+    "2025-06-12.md",
     "03-Destilar/index.md",
     "02-Organizar/index.md",
     "01-Capturar/index.md",
-    "--Tarefas/O que vamos fazer hoje.md",
     "--Inbox/Visão geral.md",
     "--Inbox/Os meios de transporte.md",
     "--Inbox/Os Bairros.md",
+    "--Inbox/Christiane 06 junho de 2025.md",
     "--Inbox/Atributos das personas.md",
     "--Inbox/As Personas.md",
     "--Inbox/As Ferramentas.md",
-    "--Inbox/Personas/Diana, Sonhadora Invisível.md",
-    "--Inbox/Personas/Carlos, Nômade Astuto.md",
-    "--Inbox/Personas/Beto, Ostentador Cego.md",
-    "--Inbox/Personas/Ana, Magnata Legal.md",
-    "--Inbox/Personas/anexos/Pasted image 20250516232215.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516224728.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516224710.png",
     "--Inbox/Personas/anexos/Pasted image 20250516222800.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516224710.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516224728.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516232215.png",
+    "--Inbox/Personas/Ana, Magnata Legal.md",
     "--Inbox/Personas/anexos/Pasted image 20250516211912.png",
-    "--Inbox/Meios de transporte/Trenó.md",
-    "--Inbox/Meios de transporte/Ponte.md",
-    "--Inbox/Meios de transporte/Barco.md",
-    "--Inbox/Meios de transporte/Baldeação.md",
     "--Inbox/Ferramentas/Vetor de usuário.md",
     "--Inbox/Ferramentas/Service Blueprint.md",
     "--Inbox/Ferramentas/Pixar Storytelling.md",
-    "--Inbox/Ferramentas/Markdown.md",
     "--Inbox/Ferramentas/Job to be Done.md",
     "--Inbox/Ferramentas/Diagrama Mermaid.md",
-    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
-    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
+    "--Inbox/Documentos/Certidão de Intenção de Imersão (CII).md",
+    "--Inbox/Documentos/Autorização Provisória de Pé no Raso (APPR).md",
+    "--Inbox/Documentos/Atestado de Resistência ao Frio (ARF).md",
+    "--Inbox/Documentos/Atestado de Equilíbrio sobre Gelo (AEG).md",
+    "--Inbox/Bairros/Ermo Frio.md",
+    "--Inbox/Bairros/Dique do Lago.md",
+    "--Inbox/Bairros/Coroa Branca.md",
+    "Untitled 16.canvas",
     "--Inbox/anexos/RevMapa.png",
+    "Untitled 15.canvas",
+    "Untitled 12.canvas",
+    "Untitled 14.canvas",
+    "Untitled 13.canvas",
+    "Untitled 11.canvas",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
     "04-Expressar/--Tarefas",
     "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516232215.png",
     "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516224728.png",
