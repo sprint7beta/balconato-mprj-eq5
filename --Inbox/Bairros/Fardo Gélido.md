@@ -12,3 +12,4 @@ O frio constante torna difícil o transporte de cargas. A falta de isolamento ad
 | Gruta Fria          | Trenó |
 | Instância Congelada | Trenó |
 | Coroa Branca        | Trenó |
+![[Pasted image 20250616184305.png]]

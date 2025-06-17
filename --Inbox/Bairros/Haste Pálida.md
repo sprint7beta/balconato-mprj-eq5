@@ -13,3 +13,4 @@ A torre demanda manutenção constante devido ao gelo e às tempestades, e o fri
 | Bico Congelado | Barco |
 | Ermo Frio      | Trenó |
 | Gruta Fria     | Barco |
+![[Pasted image 20250616184755.png]]

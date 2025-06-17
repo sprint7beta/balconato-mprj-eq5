@@ -14,3 +14,4 @@ O frio dentro das cavernas pode ser intenso e o ambiente úmido favorece problem
 | Jardim Gelado       | Barco |
 | Coroa Branca        | Barco |
 | Fardo Gélido        | Trenó |
+![[Pasted image 20250616184813.png]]

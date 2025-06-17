@@ -11,3 +11,4 @@ O frio dificulta a circulação e o armazenamento de mercadorias, além de provo
 | ------------ | ----- |
 | Fardo Gélido | Trenó |
 | Gruta Fria   | Trenó |
+![[Pasted image 20250616185213.png]]
