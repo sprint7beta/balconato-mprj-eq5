@@ -11,3 +11,8 @@
     Depois de pisar no gelo (T5), é hora de boiar. Mas só quem já domou a água sabe partilhar seus flutuadores (T10).
 
 Depende de [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]]
+
+
+| Imagem                                          | Lista de Requisitos                                         |
+| ----------------------------------------------- | ----------------------------------------------------------- |
+| ![[{E58D555C-6159-43B6-B2EF-78396B42F1E9}.png]] | [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]] |

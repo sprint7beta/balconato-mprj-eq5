@@ -6,3 +6,10 @@ Os moradores são hábeis em escalada e caçada local. Costumam se reunir para t
 
 ## Problemas  
 O gelo sobre os penhascos causa frequentes quedas de pedras e torna o caminho perigoso. O frio intenso pode provocar doenças respiratórias.
+
+
+| Conexões      | Modal |
+| ------------- | ----- |
+| Dique do Lago | Trenó |
+| Haste Pálida  | Barco |
+![[Pasted image 20250616123239.png]]

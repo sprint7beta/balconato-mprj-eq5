@@ -6,3 +6,11 @@ A comunidade trabalha com vigilância e comunicação entre regiões próximas. 
 
 ## Problemas  
 A torre demanda manutenção constante devido ao gelo e às tempestades, e o frio provoca desconforto constante entre os moradores.
+
+| Conexões       | Modal |
+| -------------- | ----- |
+| Jardim Gelado  | Barco |
+| Bico Congelado | Barco |
+| Ermo Frio      | Trenó |
+| Gruta Fria     | Barco |
+![[Pasted image 20250616184755.png]]

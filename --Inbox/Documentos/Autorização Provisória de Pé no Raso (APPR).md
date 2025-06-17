@@ -11,3 +11,8 @@
     Sem o conhecimento do céu, não se pisa na beira do lago. Com este documento, o cidadão passa a ser chamado de “Molhável Iniciado”.
 
 Depende de: [[Termo de Conscientização Sobre Riscos Climáticos (TCRC)]]
+
+
+| Imagem                                          | Lista de Requisitos                                         |
+| ----------------------------------------------- | ----------------------------------------------------------- |
+| ![[{BEEA6186-9E45-4D72-8AE4-4DED57FDEE20}.png]] | [[Termo de Conscientização Sobre Riscos Climáticos (TCRC)]] |
