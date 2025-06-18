@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "93f1d4cc96decef5",
+    "id": "b4cde820bad9c57b",
     "type": "split",
     "children": [
       {
-        "id": "e3b8a90d507b6832",
+        "id": "0851ba6dbeb80eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "db8538a3148b9995",
+            "id": "49d13dc0ab4a87b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "--Inbox/Bairros/Alva neve.md",
-=======
-                "file": "--Tarefas/Atividades 16062025.md",
->>>>>>> 035285be970045075677c5a952495cf1f54d2226
+                "file": "--Inbox/Bairros/Haste Pálida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Alva neve"
-=======
-              "title": "Atividades 16062025"
->>>>>>> 035285be970045075677c5a952495cf1f54d2226
+              "title": "Haste Pálida"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "380bfb699b1664a0",
+    "id": "d20856d2e92d55a5",
     "type": "split",
     "children": [
       {
-        "id": "d3ea05ac61fd4fd4",
+        "id": "0108b689cc082443",
         "type": "tabs",
         "children": [
           {
-            "id": "a43999d1b2f69c76",
+            "id": "840d02af8a8d4608",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +48,12 @@
             }
           },
           {
-            "id": "d27e1ec00dc1274a",
+            "id": "c001c1df73970e97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trenó",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "37bfead8059c2a7d",
+            "id": "f54c7961fd2c9069",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 300
   },
   "right": {
-    "id": "1cb87e6cf92288a2",
+    "id": "5f5bc18a9b102de1",
     "type": "split",
     "children": [
       {
-        "id": "49f153cd6d00767e",
+        "id": "8ca5cc6acd1a874c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc873dd401fc7ff7",
+            "id": "d34876ab05c9624e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Bairros/Haste Pálida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O que é Obsidian"
+              "title": "Backlinks for Haste Pálida"
             }
           },
           {
-            "id": "c292f29a29db9ca6",
+            "id": "8e1ee51a657d98c9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Bairros/Haste Pálida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O que é Obsidian"
+              "title": "Outgoing links from Haste Pálida"
             }
           },
           {
-            "id": "3a93989b2fbb01e4",
+            "id": "6228910c3a270c90",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,18 +137,18 @@
             }
           },
           {
-            "id": "3eb5168ba0f5a86b",
+            "id": "96f2715f836589f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Bairros/Haste Pálida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O que é Obsidian"
+              "title": "Outline of Haste Pálida"
             }
           }
         ]
@@ -176,106 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db8538a3148b9995",
+  "active": "49d13dc0ab4a87b6",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "--Inbox/Documentos/Atestado de Equilíbrio sobre Gelo (AEG).md",
-    "--Tarefas/Atividades 16062025.md",
     "--Inbox/Bairros/Jardim Gelado.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250617114921.png",
-    "--Inbox/Bairros/Instância Congelada.md",
-    "--Tarefas/O que vamos fazer hoje.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250616185213.png",
-    "--Inbox/Bairros/Haste Pálida.md",
     "--Inbox/Bairros/Gruta Fria.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250616184813.png",
-    "--Inbox/Bairros/anexos/Pasted image 20250616184755.png",
     "--Inbox/Bairros/Fardo Gélido.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250616184305.png",
     "--Inbox/Bairros/Ermo Frio.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250616131030.png",
     "--Inbox/Bairros/Dique do Lago.md",
     "--Inbox/Bairros/Coroa Branca.md",
     "--Inbox/Bairros/Bico Congelado.md",
     "--Inbox/Bairros/Alva neve.md",
-    "--Inbox/Bairros/anexos/Pasted image 20250616125719.png",
-    "--Inbox/Bairros/anexos/Pasted image 20250616123835.png",
-    "--Inbox/Bairros/anexos/Pasted image 20250616123239.png",
-    "--Inbox/Bairros/anexos/WhatsApp Image 2025-06-16 at 11.48.35.jpeg",
-    "--Inbox/Bairros/anexos",
-    "--Inbox/Os meios de transporte.md",
-    "--Inbox/Meios de transporte/Baldeação.md",
-    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
-    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
-    "--Inbox/Documentos/Registro de Uso Compartilhado de Flutuadores (RUCF).md",
-    "--Inbox/Documentos/Licença Para Nadar (LPN).md",
-    "--Inbox/Documentos/Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG).md",
-    "--Inbox/Documentos/Histórico de Umidade Pessoal (HUP).md",
-    "--Inbox/Documentos/Documento Oficial de Observação de Flutuabilidade (DOOF).md",
-    "--Inbox/Documentos/Certificado de Participação em Treinamento Anti-Congelamento (CPTAC).md",
-    "--Inbox/Documentos/Certidão de Intenção de Imersão (CII).md",
-    "--Inbox/Documentos/Autorização Provisória de Pé no Raso (APPR).md",
-    "--Inbox/Documentos/Atestado de Resistência ao Frio (ARF).md",
-    "--Inbox/Documentos/anexos",
-    "Untitled.canvas",
-    "--Tarefas/Atividades 16062025",
-=======
-    "--Tarefas/O que vamos fazer hoje.md",
     "--Tarefas/Atividades 16062025.md",
-    "Untitled 1.canvas",
-    "2025-06-16.md",
-    "--Inbox/Luiz 06 06 2025.md",
-    "--Inbox/Documentos/anexos/{F2158CC7-597E-4D15-8797-92D90A62ED4C}.png",
-    "--Inbox/Documentos/anexos/{E58D555C-6159-43B6-B2EF-78396B42F1E9}.png",
-    "--Inbox/Documentos/anexos/{C375E20A-7585-4F4D-9F37-6644AB270C84}.png",
-    "--Inbox/Documentos/anexos/{BEEA6186-9E45-4D72-8AE4-4DED57FDEE20}.png",
-    "--Inbox/Documentos/anexos/{A4241EB3-5CAA-4D96-BBF5-1832DA9173FA}.png",
-    "--Inbox/Documentos/anexos/{7ACBF603-B862-48D7-8237-349AFB30E81E}.png",
-    "--Inbox/Documentos/anexos/{78E8B659-683E-439C-9F48-1CD392495599}.png",
-    "--Inbox/Documentos/anexos/{6A45B860-5A5C-47C3-950B-BD21BC99B950}.png",
-    "--Inbox/Documentos/anexos/{5A058940-568F-4990-80A6-D31A74656562}.png",
-    "--Inbox/Documentos/anexos/{44C7CDDB-8BFB-4A94-A823-B526C2569D9A}.png",
-    "--Inbox/Documentos/anexos",
-    "--Inbox/Bairros/anexos",
-    "Untitled.canvas",
-    "2025-06-17.md",
-    "2025-06-12.md",
-    "03-Destilar/index.md",
-    "02-Organizar/index.md",
-    "01-Capturar/index.md",
-    "--Inbox/Visão geral.md",
-    "--Inbox/Os meios de transporte.md",
-    "--Inbox/Os Bairros.md",
-    "--Inbox/Christiane 06 junho de 2025.md",
-    "--Inbox/Atributos das personas.md",
-    "--Inbox/As Personas.md",
-    "--Inbox/As Ferramentas.md",
-    "--Inbox/Personas/Ana, Magnata Legal.md",
-    "--Inbox/Ferramentas/Vetor de usuário.md",
-    "--Inbox/Ferramentas/Service Blueprint.md",
-    "--Inbox/Ferramentas/Pixar Storytelling.md",
-    "--Inbox/Ferramentas/Job to be Done.md",
-    "--Inbox/Ferramentas/Diagrama Mermaid.md",
-    "--Inbox/Documentos/Certidão de Intenção de Imersão (CII).md",
-    "--Inbox/Documentos/Autorização Provisória de Pé no Raso (APPR).md",
+    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
     "--Inbox/Documentos/Atestado de Resistência ao Frio (ARF).md",
     "--Inbox/Documentos/Atestado de Equilíbrio sobre Gelo (AEG).md",
-    "Untitled 16.canvas",
-    "Untitled 15.canvas",
-    "Untitled 12.canvas",
-    "Untitled 14.canvas",
-    "Untitled 13.canvas",
-    "Untitled 11.canvas",
-    "Untitled 10.canvas",
-    "Untitled 9.canvas",
->>>>>>> 035285be970045075677c5a952495cf1f54d2226
-    "04-Expressar/--Tarefas",
-    "04-Expressar/--Inbox/Personas/anexos",
-    "04-Expressar/--Inbox/Personas",
-    "04-Expressar/--Inbox/Meios de transporte",
-    "04-Expressar/--Inbox/Ferramentas",
-    "04-Expressar/--Inbox/Bairros",
-    "04-Expressar/--Inbox/anexos",
-    "04-Expressar/--Inbox"
+    "--Inbox/anexos/RevMapa.png"
   ]
 }
