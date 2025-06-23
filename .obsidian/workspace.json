@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Inbox/Personas/Diana, Sonhadora Invisível.md",
+                "file": "--Inbox/Personas/Ana, Magnata Legal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diana, Sonhadora Invisível"
+              "title": "Ana, Magnata Legal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--Inbox/Bairros/Haste Pálida.md",
+                "file": "--Inbox/Personas/Ana, Magnata Legal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Haste Pálida"
+              "title": "Backlinks for Ana, Magnata Legal"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--Inbox/Bairros/Haste Pálida.md",
+                "file": "--Inbox/Personas/Ana, Magnata Legal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Haste Pálida"
+              "title": "Outgoing links from Ana, Magnata Legal"
             }
           },
           {
@@ -170,8 +170,10 @@
   },
   "active": "49d13dc0ab4a87b6",
   "lastOpenFiles": [
-    "--Inbox/Personas/Carlos, Nômade Astuto.md",
+    "--Inbox/Personas/anexos/Pasted image 20250516211912.png",
     "--Inbox/Personas/Beto, Ostentador Cego.md",
+    "--Inbox/Personas/Diana, Sonhadora Invisível.md",
+    "--Inbox/Personas/Carlos, Nômade Astuto.md",
     "--Inbox/Personas/Ana, Magnata Legal.md",
     "--Inbox/Bairros/Haste Pálida.md",
     "--Inbox/Bairros/Jardim Gelado.md",
