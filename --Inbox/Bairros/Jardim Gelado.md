@@ -11,3 +11,4 @@ A falta de luz solar e o frio prolongado prejudicam o cultivo. Estufas podem que
 | ------------ | ----- |
 | Haste Pálida | Barco |
 | Gruta Fria   | Barco |
+![[Pasted image 20250617114921.png]]

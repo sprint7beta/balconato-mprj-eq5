@@ -1,23 +1,28 @@
 {
   "main": {
-    "id": "93f1d4cc96decef5",
+    "id": "b4cde820bad9c57b",
     "type": "split",
     "children": [
       {
-        "id": "e3b8a90d507b6832",
+        "id": "0851ba6dbeb80eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "db8538a3148b9995",
+            "id": "49d13dc0ab4a87b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "--Inbox/Personas/Ana, Magnata Legal.md",
+=======
+                "file": "--Inbox/Personas/Beto, Ostentador Cego.md",
+>>>>>>> a0bd644916bb4d29d7ff656b1347413d5a95fa22
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Ana, Magnata Legal"
             }
           },
@@ -47,6 +52,9 @@
               },
               "icon": "lucide-file",
               "title": "Diana, Sonhadora Invisível"
+=======
+              "title": "Beto, Ostentador Cego"
+>>>>>>> a0bd644916bb4d29d7ff656b1347413d5a95fa22
             }
           }
         ],
@@ -56,15 +64,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "380bfb699b1664a0",
+    "id": "d20856d2e92d55a5",
     "type": "split",
     "children": [
       {
-        "id": "d3ea05ac61fd4fd4",
+        "id": "0108b689cc082443",
         "type": "tabs",
         "children": [
           {
-            "id": "a43999d1b2f69c76",
+            "id": "840d02af8a8d4608",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +85,16 @@
             }
           },
           {
-            "id": "d27e1ec00dc1274a",
+            "id": "c001c1df73970e97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "tag:#sem-ouro",
+=======
+                "query": "",
+>>>>>>> a0bd644916bb4d29d7ff656b1347413d5a95fa22
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,7 @@
             }
           },
           {
-            "id": "37bfead8059c2a7d",
+            "id": "f54c7961fd2c9069",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,23 +119,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 300
   },
   "right": {
-    "id": "1cb87e6cf92288a2",
+    "id": "5f5bc18a9b102de1",
     "type": "split",
     "children": [
       {
-        "id": "49f153cd6d00767e",
+        "id": "8ca5cc6acd1a874c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc873dd401fc7ff7",
+            "id": "d34876ab05c9624e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Personas/Beto, Ostentador Cego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +145,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O que é Obsidian"
+              "title": "Backlinks for Beto, Ostentador Cego"
             }
           },
           {
-            "id": "c292f29a29db9ca6",
+            "id": "8e1ee51a657d98c9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Personas/Beto, Ostentador Cego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O que é Obsidian"
+              "title": "Outgoing links from Beto, Ostentador Cego"
             }
           },
           {
-            "id": "3a93989b2fbb01e4",
+            "id": "6228910c3a270c90",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +178,18 @@
             }
           },
           {
-            "id": "3eb5168ba0f5a86b",
+            "id": "96f2715f836589f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Obsidian.md",
+                "file": "--Inbox/Bairros/Haste Pálida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O que é Obsidian"
+              "title": "Outline of Haste Pálida"
             }
           }
         ]
@@ -197,6 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "fa53bde510e3ac67",
   "lastOpenFiles": [
     "--Inbox/Personas/Carlos, Nômade Astuto.md",
@@ -254,5 +267,28 @@
     "04-Expressar/--Inbox/Bairros",
     "04-Expressar/--Inbox/anexos",
     "04-Expressar/--Inbox"
+=======
+  "active": "49d13dc0ab4a87b6",
+  "lastOpenFiles": [
+    "--Inbox/Personas/Ana, Magnata Legal.md",
+    "--Inbox/Personas/Diana, Sonhadora Invisível.md",
+    "--Inbox/Personas/Carlos, Nômade Astuto.md",
+    "--Inbox/Personas/Beto, Ostentador Cego.md",
+    "--Inbox/Personas/anexos/Pasted image 20250516211912.png",
+    "--Inbox/Bairros/Haste Pálida.md",
+    "--Inbox/Bairros/Jardim Gelado.md",
+    "--Inbox/Bairros/Gruta Fria.md",
+    "--Inbox/Bairros/Fardo Gélido.md",
+    "--Inbox/Bairros/Ermo Frio.md",
+    "--Inbox/Bairros/Dique do Lago.md",
+    "--Inbox/Bairros/Coroa Branca.md",
+    "--Inbox/Bairros/Bico Congelado.md",
+    "--Inbox/Bairros/Alva neve.md",
+    "--Tarefas/Atividades 16062025.md",
+    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
+    "--Inbox/Documentos/Atestado de Resistência ao Frio (ARF).md",
+    "--Inbox/Documentos/Atestado de Equilíbrio sobre Gelo (AEG).md",
+    "--Inbox/anexos/RevMapa.png"
+>>>>>>> a0bd644916bb4d29d7ff656b1347413d5a95fa22
   ]
 }
